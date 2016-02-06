@@ -1,0 +1,12 @@
+@mixin proBook {
+	font-family: 'FF Kievit Pro';
+	src: url('https://i.smxm.ga/css/fonts/kiev-pro-book.eot');
+	src: local('FF Kievit Pro Book'), local('FFKievitPro-Book'),
+		url('https://i.smxm.ga/css/fonts/kiev-pro-book.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/kiev-pro-book.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/kiev-pro-book.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/kiev-pro-book.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/kiev-pro-book.svg#kiev-pro-book') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

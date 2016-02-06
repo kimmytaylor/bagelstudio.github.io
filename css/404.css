@@ -1,0 +1,95 @@
+/* Fonts Section */
+@font-face {
+  font-family: 'Colfax';
+  src: url("https://i.smxm.ga/css/fonts/colfax-reg.eot");
+  src: local("Colfax Regular"), local("Colfax-Regular"), url("https://i.smxm.ga/css/fonts/colfax-reg.eot?#iefix") format("embedded-opentype"), url("https://i.smxm.ga/css/fonts/colfax-reg.woff2") format("woff2"), url("https://i.smxm.ga/css/fonts/colfax-reg.woff") format("woff"), url("https://i.smxm.ga/css/fonts/colfax-reg.ttf") format("truetype"), url("https://i.smxm.ga/css/fonts/colfax-reg.svg#colfax-reg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Colfax';
+  src: url("https://i.smxm.ga/css/fonts/colfax-med.eot");
+  src: local("Colfax Medium"), local("Colfax-Medium"), url("https://i.smxm.ga/css/fonts/colfax-med.eot?#iefix") format("embedded-opentype"), url("https://i.smxm.ga/css/fonts/colfax-med.woff2") format("woff2"), url("https://i.smxm.ga/css/fonts/colfax-med.woff") format("woff"), url("https://i.smxm.ga/css/fonts/colfax-med.ttf") format("truetype"), url("https://i.smxm.ga/css/fonts/colfax-med.svg#colfax-med") format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* General Section */
+html {
+  min-width: 344px;
+  padding: 5px 20px;
+}
+
+body {
+  background-color: #fff;
+  margin: 0;
+  text-align: center;
+  font-family: "Colfax";
+}
+
+.container {
+  margin: 100px auto 40px auto;
+}
+
+h1 {
+  font: 500 60px/60px Colfax;
+  letter-spacing: -1px;
+  color: #56626d;
+  margin: 0px 0px 50px 0px;
+}
+
+h2 {
+  font: 400 32px/40px Colfax;
+  letter-spacing: -1px;
+  color: #FF0000;
+}
+
+p {
+  color: #000;
+  font-size: 18px;
+  margin: 20px 0;
+  line-height: 1.6;
+}
+
+p la {
+  color: #56626d;
+  line-height: 4.0;
+  font-size: 30px;
+}
+
+.logo {
+  display: inline-block;
+  margin-top: 35px;
+}
+
+.suggestions {
+  margin-top: 35px;
+  color: #ccc;
+}
+
+.suggestions a {
+  text-decoration: none;
+  color: #FF0000;
+  font-weight: 400;
+  font-size: 14px;
+  margin: 0px 10px;
+}
+
+/* Selection Section */
+::-moz-selection {
+  background-color: #ff4d4d;
+  color: #fff;
+}
+
+::selection {
+  background-color: #ff4d4d;
+  color: #fff;
+}
+
+/* Media Screen Section */
+@media only screen and (max-width: 580px) {
+  .container {
+    margin: 30px 5px 0px 5px;
+  }
+}

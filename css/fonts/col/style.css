@@ -1,0 +1,144 @@
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-thin.eot');
+	src: local('Colfax Thin'), local('Colfax-Thin'),
+		url('https://i.smxm.ga/css/fonts/colfax-thin.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-thin.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-thin.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-thin.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-thin.svg#colfax-thin') format('svg');
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-it-thin.eot');
+	src: local('Colfax Thin Italic'), local('Colfax-ThinItalic'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-thin.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-thin.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-thin.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-thin.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-thin.svg#colfax-it-thin') format('svg');
+	font-weight: 100;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-light.eot');
+	src: local('Colfax Light'), local('Colfax-Light'),
+		url('https://i.smxm.ga/css/fonts/colfax-light.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-light.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-light.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-light.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-light.svg#colfax-light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-it-light.eot');
+	src: local('Colfax Light Italic'), local('Colfax-LightItalic'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-light.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-light.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-light.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-light.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-light.svg#colfax-it-light') format('svg');
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-reg.eot');
+	src: local('Colfax Regular'), local('Colfax-Regular'),
+		url('https://i.smxm.ga/css/fonts/colfax-reg.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-reg.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-reg.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-reg.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-reg.svg#colfax-reg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-it-reg.eot');
+	src: local('Colfax Regular Italic'), local('Colfax-RegularItalic'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-reg.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-reg.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-reg.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-reg.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-reg.svg#colfax-it-reg') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-med.eot');
+	src: local('Colfax Medium'), local('Colfax-Medium'),
+		url('https://i.smxm.ga/css/fonts/colfax-med.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-med.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-med.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-med.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-med.svg#colfax-med') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-it-med.eot');
+	src: local('Colfax Medium Italic'), local('Colfax-MediumItalic'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-med.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-med.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-med.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-med.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-med.svg#colfax-it-med') format('svg');
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-bold.eot');
+	src: local('Colfax Bold'), local('Colfax-Bold'),
+		url('https://i.smxm.ga/css/fonts/colfax-bold.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-bold.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-bold.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-bold.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-bold.svg#colfax-bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-it-bold.eot');
+	src: local('Colfax Bold Italic'), local('Colfax-BoldItalic'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-bold.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-bold.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-bold.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-bold.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-bold.svg#colfax-it-bold') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-black.eot');
+	src: local('Colfax Black'), local('Colfax-Black'),
+		url('https://i.smxm.ga/css/fonts/colfax-black.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-black.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-black.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-black.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-black.svg#colfax-black') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Colfax';
+	src: url('https://i.smxm.ga/css/fonts/colfax-it-black.eot');
+	src: local('Colfax Bold Italic'), local('Colfax-BoldItalic'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-black.eot?#iefix') format('embedded-opentype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-black.woff2') format('woff2'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-black.woff') format('woff'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-black.ttf') format('truetype'),
+		url('https://i.smxm.ga/css/fonts/colfax-it-black.svg#colfax-it-black') format('svg');
+	font-weight: 900;
+	font-style: italic;
+}
